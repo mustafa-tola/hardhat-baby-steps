@@ -1,1 +1,4 @@
 /02-installation-steps/node_modules
+/03-compilation/node_modules
+/03-compilation/artifacts
+/03-compilation/cache
