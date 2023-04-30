@@ -1,3 +1,4 @@
+<div style="font-family: 'Times New Roman'">
 <h1>Introduction to Hardhat</h1>
 
 <h2>What is Hardhat</h2>
@@ -21,4 +22,4 @@
         </ol>
     </li>
 </ul>
-
+</div>

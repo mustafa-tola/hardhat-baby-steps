@@ -1,3 +1,4 @@
+<div style="font-family: 'Times New Roman'">
 <h1>Installation / Making a Hardhat Project</h1>
 <ol>
     <li>First, Create a Nodejs project with <b>npm init --y</b> command to be run on the terminal</li>
@@ -7,3 +8,4 @@
     <li>You have to install testing libraries in hardhat project using <b>npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai</b></li>
     <li>Add following statement <b>require("@nomiclabs/hardhat-waffle")</b> to enable hardhat in our project</li>
 </ol>
+</div>

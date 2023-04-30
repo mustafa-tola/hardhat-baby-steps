@@ -2,3 +2,6 @@
 /03-compilation/node_modules
 /03-compilation/artifacts
 /03-compilation/cache
+/04-testing/node_modules
+/04-testing/artifacts
+/04-testing/cache

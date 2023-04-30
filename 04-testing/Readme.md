@@ -1,8 +1,7 @@
-<h1>Compilation </h1>
-<ol>
-    <li>Make a smart contract in the contracts folder with .sol extension</li>
-    <li>In this project, I have included a contract through which user can send money to other accounts and check balance</li>
-    <li>After creating the contract, move to the contracts folder in cmd and run <b>npx hardhat compile</b></li>
-    <li>Make three essential folders ( if you are starting from scratch ) named as contracts, scripts and tests</li>
-    <li>After running above command, Artifacts and cache folder will be created which contains the compiled contracts</li>
+<h1 style="font-family: 'Times New Roman'">Testing Of Smart Contracts</h1>
+<ol style="font-family: 'Times New Roman'">
+    <li>Make a .js file in the previously created test folder</li>
+    <li>In my practice project, I have created a test to ensure that the account which is calling the contract has got the maximum supply of tokens or not</li>
+    <li>Run the above made test with <b>npx hardhat test</b> command in the hardhat project folder</li>
+    <li><b>Note: - <a href="https://www.chaijs.com/guide/">Chai</a></b> library is used to make these test</li>
 </ol>

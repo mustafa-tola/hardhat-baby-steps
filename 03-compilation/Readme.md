@@ -1,3 +1,4 @@
+<div style="font-family: 'Times New Roman'">
 <h1>Compilation </h1>
 <ol>
     <li>Make a smart contract in the contracts folder with .sol extension</li>
@@ -6,3 +7,4 @@
     <li>Make three essential folders ( if you are starting from scratch ) named as contracts, scripts and tests</li>
     <li>After running above command, Artifacts and cache folder will be created which contains the compiled contracts</li>
 </ol>
+</div>
