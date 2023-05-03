@@ -1,0 +1,22 @@
+{
+    "MD033": {
+      "allowed_elements": [
+        "div",
+        "h1",
+        "h2",
+        "ul",
+        "ol",
+        "b",
+        "code",
+        "p",
+        "li",
+        "a",
+        "img"
+      ]
+    },
+    "MD013": {
+        "line_length": 400
+    },
+    "MD047": false,
+    "MD041": false
+  }
